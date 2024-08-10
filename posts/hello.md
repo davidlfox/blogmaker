@@ -1,12 +1,14 @@
-[category]: <> (General)
-[date]: <> (2020/10/24)
-[title]: <> (Hello world)
+[category]: <> (general)
+[date]: <> (2024/08/10)
+[title]: <> (hello world)
 
 This is a blog post!
 
 Here's some code:
 
-```python
-def hello():
-    return 42
+```cs
+void hello()
+{
+    Console.WriteLine("42");
+}
 ```

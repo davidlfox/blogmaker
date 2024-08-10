@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>david fox's blog</title>
+  <link>http://localhost:5500/</link>
+  <description>david fox's blog</description>
+  <image>
+      <url>https://1.gravatar.com/avatar/c98c36bd1f7c8ed591051021f7bcb961c2d07bd8da96bf303825439e84e7626d?size=256</url>
+      <title>david fox's blog</title>
+      <link>http://localhost:5500/</link>
+  </image>
+
+<item>
+<title>hello world</title>
+<link>http://localhost:5500/./posts/2024/08/10/hello.html</link>
+<guid>http://localhost:5500/./posts/2024/08/10/hello.html</guid>
+<pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+</channel>
+</rss>
